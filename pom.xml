@@ -24,7 +24,7 @@
         <tika.version>2.2.1</tika.version>
         <guava.version>31.0.1-jre</guava.version>
         <assertj.version>3.22.0</assertj.version>
-        <h2.version>2.1.210</h2.version>
+        <h2.version>2.2.220</h2.version>
         <mongo-java-server.version>1.39.0</mongo-java-server.version>
         <headlessMode>false</headlessMode>
         <revision>3.0.0-alpha-29</revision>
