@@ -28,7 +28,7 @@
         <mongo-java-server.version>1.39.0</mongo-java-server.version>
         <headlessMode>false</headlessMode>
         <revision>3.0.0-alpha-29</revision>
-        <java-jwt.version>3.18.3</java-jwt.version>
+        <java-jwt.version>3.19.3</java-jwt.version>
     </properties>
 
     <licenses>
