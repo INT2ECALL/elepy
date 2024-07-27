@@ -17,7 +17,7 @@
         <dependency>
             <groupId>org.mongojack</groupId>
             <artifactId>mongojack</artifactId>
-            <version>3.0.3</version>
+            <version>4.8.1</version>
         </dependency>
         <dependency>
             <groupId>org.mongodb</groupId>
