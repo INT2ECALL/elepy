@@ -14,7 +14,7 @@
     <url>https://elepy.com</url>
 
     <properties>
-        <commons-io.version>2.11.0</commons-io.version>
+        <commons-io.version>2.14.0</commons-io.version>
         <exclude.tests>nothing-to-exclude</exclude.tests>
         <exclude.groups>nothing</exclude.groups>
         <junit.version>5.8.2</junit.version>
