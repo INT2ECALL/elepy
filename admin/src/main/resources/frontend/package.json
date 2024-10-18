@@ -29,7 +29,7 @@
     "node-vibrant": "^3.1.5",
     "prismjs": "^1.27.0",
     "uikit": "3.3.6",
-    "vue": "^2.6.11",
+    "vue": "^3.0.0",
     "vue-ctk-date-time-picker": "^2.4.0",
     "vue-editor-js": "^2.0.1",
     "vue-focus": "^2.1.0",
