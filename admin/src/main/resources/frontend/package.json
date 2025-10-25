@@ -26,7 +26,7 @@
     "messageformat": "^2.3.0",
     "misbehave": "^0.3.0",
     "moment": "^2.29.2",
-    "node-vibrant": "^3.1.5",
+    "node-vibrant": "^4.0.0",
     "prismjs": "^1.27.0",
     "uikit": "3.3.6",
     "vue": "^2.6.11",
