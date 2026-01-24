@@ -21,7 +21,7 @@
     "core-js": "^3.8.1",
     "jexl": "^2.3.0",
     "js-cookie": "^2.2.1",
-    "lodash": "latest",
+    "lodash": "4.17.23",
     "marked": "^4.0.10",
     "messageformat": "^2.3.0",
     "misbehave": "^0.3.0",
